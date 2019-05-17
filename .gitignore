@@ -3,7 +3,10 @@
 
 # NPM
 node_modules
+.gitignore
 
 # NativeScript application
 hooks
 platforms
+*.rar
+*.zip
